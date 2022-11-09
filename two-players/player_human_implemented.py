@@ -6,7 +6,7 @@ Created on Mon Dec  6 12:20:43 2021
 @author: gracepichar
 """
 #import class for implemented
-from Part1_player_human import Board, Player1, Player2
+from player_human import Board, Player1, Player2
 
 #create the welcome massage befor playing
 print("Weclome to the Trone Grame!")

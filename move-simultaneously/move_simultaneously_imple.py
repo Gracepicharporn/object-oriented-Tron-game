@@ -6,7 +6,7 @@ Created on Thu Dec 16 12:12:46 2021
 @author: gracepichar
 """
 
-from Part1_move_simultaneously import Board, Player1, Player2
+from move_simultaneously import Board, Player1, Player2
 
 #create the welcome massage befor playing
 print("Weclome to the Trone Grame!")

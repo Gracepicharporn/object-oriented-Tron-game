@@ -6,7 +6,7 @@ Created on Sat Jan  8 22:16:35 2022
 @author: gracepichar
 """
 
-from Part1_human_smartcomputer import Board, Player1, Humanplayer, Computerplayer, SmartCompuer  
+from human_smartcomputer import Board, Player1, Humanplayer, Computerplayer, SmartCompuer  
 #create the welcome massage befor playing
 print("Weclome to the Trone Grame!")
 print("Are you ready?")
